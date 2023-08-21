@@ -1,0 +1,19 @@
+#chef {
+
+height: auto;
+width: 1980px ;
+}
+
+body {
+    background-color: aliceblue;
+}
+
+.links {
+
+    color: rgb(197, 160, 231);
+    font-weight: bolder;
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+

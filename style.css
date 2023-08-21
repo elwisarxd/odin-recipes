@@ -42,3 +42,25 @@ body {
    text-align: left;
    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
+
+#Oreo {
+
+    background-color: cornflowerblue;
+}
+
+#vanilla {
+    height: 480px;
+    width: 720px;
+    
+}
+
+#chocolate {
+    font-size: 23px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: left;
+}
+
+.sandwich {
+
+    color: white
+}
